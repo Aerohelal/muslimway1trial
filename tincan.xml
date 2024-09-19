@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="urn:articulate:storyline:6aV2O35y86M" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">التربية الإسلامية</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="urn:articulate:storyline:6aV2O35y86M/698pcmf2tXG" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الأول - العقيدة</name>
+			<description lang="und">الدرس الأول - العقيدة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6aV2O35y86M/6fdzxxfuk9T" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الأول - القرآن</name>
+			<description lang="und">الدرس الأول - القرآن</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6aV2O35y86M/652FY0Nh8KW" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الأول - الحديث الشريف</name>
+			<description lang="und">الدرس الأول - الحديث الشريف</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6aV2O35y86M/6YuM8hM25Y5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الأول - نشاط التلوين</name>
+			<description lang="und">الدرس الأول - نشاط التلوين</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6aV2O35y86M/5WfU4XhwFtN" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الأول - الأنشطة</name>
+			<description lang="und">الدرس الأول - الأنشطة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6aV2O35y86M/5WfU4XhwFtN/6F7fcLVaLdU" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Drag and Drop</name>
+			<description lang="und">Drag and Drop</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_6ACvTmvZAyH[.]choice_6DrcFZch4UI</correctResponsePattern>
+				<correctResponsePattern>statement_6c7jIYBegUF[.]choice_6iJgmwqGmSD</correctResponsePattern>
+				<correctResponsePattern>statement_6lpCfaGbnkF[.]choice_5viawxTaGPG</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_6ACvTmvZAyH</id>
+					<description lang="und">Rectangle 2</description>
+				</component>
+				<component>
+					<id>statement_6c7jIYBegUF</id>
+					<description lang="und">Rectangle 3</description>
+				</component>
+				<component>
+					<id>statement_6lpCfaGbnkF</id>
+					<description lang="und">Rectangle 1</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_6DrcFZch4UI</id>
+					<description lang="und">water - match 5.png</description>
+				</component>
+				<component>
+					<id>choice_6iJgmwqGmSD</id>
+					<description lang="und">sky - match 2.png</description>
+				</component>
+				<component>
+					<id>choice_5viawxTaGPG</id>
+					<description lang="und">earth - match 6.png</description>
+				</component>
+			</target>
+		</activity>
+	</activities>
+</tincan>
